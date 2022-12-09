@@ -89,7 +89,7 @@ void Position:: move(int n){
                       {-1,  1}, // direction 7
                       {0,  +1}, // direction 8
                       {1,  1}}; // direction 9
- 9
+ 
                       
 
     if(n == 0) reset();// the robot returns to its first location
